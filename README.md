@@ -4,6 +4,8 @@ wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/soft
 ""
 
 ## Ncam 14.9 all  arm & mips
-""
+"""
+
 wget -q "--no-check-certificate" https://raw.githubusercontent.com/markettv/soft/main/Ncam_all.sh -O - | /bin/sh
-""
+
+"""
